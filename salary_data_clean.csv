@@ -1,4 +1,4 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Hourly,Employer Provided,Min Salary,Max Salary,Avg Salary,Company Text,Province,Age,Python,RStudio,Spark,AWS,Excel,Keywords
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Hourly,EmployerProvided,MinSalary,MaxSalary,AvgSalary,CompanyText,Province,Age,Python,RStudio,Spark,AWS,Excel,JobSimplified,Seniority,DescLength
 Senior Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Myplanet is looking for a Senior Data Scientist who is a self-starter with a blend of skills in data analysis, statistics, and applied machine learning to lead our data strategy and implementation for a new product offering. This product will leverage a variety of data types from multiple sources to automate the design, development, and testing of digital interfaces. The areas of focus will evolve over the course of the program and will center on the following objectives.
 
 Responsibilities:
@@ -46,7 +46,7 @@ Committed to an Inclusive Workplace
 
 
 We are committed to fostering an inclusive and accessible environment as we build a workforce that reflects the diversity of the community in which we live, including those with disabilities. We are dedicated to providing accommodations in all parts of the hiring process in accordance with the Accessibility for Ontarians with Disabilities Act and the Ontario Human Rights Code. If you require any accommodation, we will work with you to meet your needs.",4.6,"Myplanet
-4.6",Toronto,-1,51 to 200 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Myplanet,ON,11,1,1,0,0,0,Python
+4.6",Toronto,-1,51 to 200 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Myplanet,ON,11,1,1,0,0,0,data scientist,senior,4502
 Marketing Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Top Hat is looking for a technical Marketing Data Scientist to build out the back-end data & systems infrastructure for the marketing department, while also analyzing data and generating actionable insights from there.
 
 Reporting to the Marketing Operations Manager, you will be responsible for building out the marketing data infrastructure and working with the team internally to garner actionable insights for the marketing department. Working in tandem with data & systems engineers across the company, you will analyze data to understand how best Top Hat can utilize its marketing function to acquire and retain customers. You will also be responsible for improving efficiencies and optimizing our current data system to improve the quality of generated insights.
@@ -81,7 +81,7 @@ The life of a Top Hatter also comes with other sweet perks too:
 • We are one of the top education technology companies in North America (named Fastest 50 Growing Companies by Deloitte Consulting!)
 
 Top Hat welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",3.5,"Top Hat
-3.5",Toronto,-1,201 to 500 Employees,2009,Company - Private,Colleges & Universities,Education,$25 to $50 million (USD),-1,0,0,58.0,90,74.0,Top Hat,ON,11,1,1,0,0,0,Python
+3.5",Toronto,-1,201 to 500 Employees,2009,Company - Private,Colleges & Universities,Education,$25 to $50 million (USD),-1,0,0,58.0,90,74.0,Top Hat,ON,11,1,1,0,0,0,data scientist,na,3982
 "Data Analyst, NAV Recon",CA$58k-CA$90k (Glassdoor Est.),"Data Analyst, NAV Recon
 Connor, Clark & Lunn Financial Group Ltd.
 Vancouver, BC
@@ -124,7 +124,7 @@ Our business comprises eleven institutional investment affiliates that are respo
 To apply, please submit your resume and cover letter.
 
 We thank all candidates for their interest but only those applicants selected for an interview will be contacted.",4.3,"Connor, Clark & Lunn Financial Group
-4.3",Vancouver,-1,201 to 500 Employees,1982,Company - Private,Investment Banking & Asset Management,Finance,$25 to $50 million (USD),-1,0,0,58.0,90,74.0,"Connor, Clark & Lunn Financial Group",BC,38,0,1,0,0,0,Python
+4.3",Vancouver,-1,201 to 500 Employees,1982,Company - Private,Investment Banking & Asset Management,Finance,$25 to $50 million (USD),-1,0,0,58.0,90,74.0,"Connor, Clark & Lunn Financial Group",BC,38,0,1,0,0,0,analyst,na,6532
 Data Mining Specialist,CA$58k-CA$90k (Glassdoor Est.),"What we do
 Interested in solving problems, enjoy complicated challenges, love data? Then come join the GSTS team. A leading-edge Artificial Intelligence company developing solutions for the maritime sector, our solutions process large volumes of satellite and terrestrial data in real time to provide decision-making intelligence to save lives, energy and the environment. We turn abstract data into concrete, usable information.
 GSTS is building up a team to support the development and commercialization of this new capability that will have a major impact on maritime risk and vessel efficiency on a global scale. We seek individuals with drive, initiative and motivation to join our team and make the world a safer, greener place for all.
@@ -159,7 +159,7 @@ Why work for us?
 We are committed to creating a sense of belonging amongst our team. We have placed an emphasis on fostering a diverse, collaborative and inclusive working environment. We welcome applications from qualified candidates irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 GSTS offers a competitive salary and benefits package, if you think this challenge is right for you, we encourage you to apply, forwarding your cover letter, current resume and contact information to careers@gsts.ca
 We thank all candidates that apply, but only those selected for an interview will be contacted.",5.0,"Global Spatial Technology Solutions
-5.0",Dartmouth,-1,1 to 50 Employees,-1,Unknown,-1,-1,Less than $1 million (USD),-1,0,0,58.0,90,74.0,Global Spatial Technology Solutions,NS,-1,1,1,0,0,0,Python
+5.0",Dartmouth,-1,1 to 50 Employees,-1,Unknown,-1,-1,Less than $1 million (USD),-1,0,0,58.0,90,74.0,Global Spatial Technology Solutions,NS,-1,1,1,0,0,0,na,na,3632
 "Intern, Data Engineer – Digital Strategy and Innovation",CA$58k-CA$90k (Glassdoor Est.),"EXPERIENCE THE EDGE
 
 
@@ -210,7 +210,7 @@ Deadline to apply: September 20th, 2020
 Visit us on LinkedIn.
 
 www.investpsp.com",4.4,"PSP Investments
-4.4",Montreal,-1,501 to 1000 Employees,1999,Other Organization,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,PSP Investments,QC,21,1,1,1,0,1,Python
+4.4",Montreal,-1,501 to 1000 Employees,1999,Other Organization,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,PSP Investments,QC,21,1,1,1,0,1,data engineer,na,3112
 Data Analyst Developer,CA$58k-CA$90k (Glassdoor Est.),"Are you into big data?
 
 Do you have a very good knowledge of Oracle/Unix databases?
@@ -248,7 +248,7 @@ Bilingualism, spoken and written (English and French)
 We strive to be an inclusive organization where all employees are valued. National Bank stands out for its many initiatives to promote inclusion, making it a Canada-wide leader in diversity.
 
 INDTI",4.0,"National Bank of Canada
-4.0",Montreal,-1,10000+ Employees,1859,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),-1,0,0,58.0,90,74.0,National Bank of Canada,QC,161,0,1,0,0,1,Python
+4.0",Montreal,-1,10000+ Employees,1859,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),-1,0,0,58.0,90,74.0,National Bank of Canada,QC,161,0,1,0,0,1,analyst,na,2134
 Data Analyst,CA$58k-CA$90k (Glassdoor Est.),"Syniti was founded to solve business’ complex data challenges, bringing synergy between data and business, delivering confidence and progress along clients’ business transformation journey. Through a combination of unique data expertise, services, and intelligent software leveraging artificial intelligence and machine learning, we help clients manage their data journey from data conversion to data quality, data archival and replication, master data management, analytics, information governance, and data strategy.
 
 Utilizing the market’s top data specialists, validated industry knowledge and proven methodologies, Syniti has led thousands of successful data journey projects for Forbes Global 2000 organizations. SAP resells Syniti products as part of the Solution Extension Partner program.
@@ -292,7 +292,7 @@ Strong drive for achieving results under pressure
 Syniti offers a generous benefits package that includes medical, 401k, long term disability, life insurance and a paid time off program.
 
 If you are interested in this or any one of the exciting career opportunities at Syniti®, please go to www.syniti.com and view our Careers section, where you should complete the on-line application process.",3.6,"Syniti
-3.6",Moncton,-1,501 to 1000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1,0,0,58.0,90,74.0,Syniti,NB,24,0,1,0,0,1,Python
+3.6",Moncton,-1,501 to 1000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1,0,0,58.0,90,74.0,Syniti,NB,24,0,1,0,0,1,analyst,na,3998
 GCP Data engineer with Dataproc + Big Table,CA$58k-CA$90k (Glassdoor Est.),"GAL AeroStaff., which provides specialized staffing and recruiting services is presently seeking a GCP Data engineer with Dataproc + Big Table for a contract based anywhere in Canada (Remote work)Responsibilities:
 
 Working with GCP team for various GCP Cloud programs including Certifications, Partner engineering, Marketplace and other Cloud platform solutions.
@@ -328,7 +328,7 @@ Program Management experience from Planning to execution
 Having experience of Managing teams of moderate size
 Strong communications skill and multiple stakeholder(TM)s management
 Experience in implementing cloud solutions",4.0,"GAL Aerostaff
-4.0",Remote,-1,1 to 50 Employees,2011,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,GAL Aerostaff,Unknown,9,0,1,0,0,0,Python
+4.0",Remote,-1,1 to 50 Employees,2011,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,GAL Aerostaff,Unknown,9,0,1,0,0,0,data engineer,na,1931
 Senior Data Scientist // Scientifique des données principal,CA$58k-CA$90k (Glassdoor Est.),"Reporting to the Analytics Manager, the Senior Data Scientist is responsible for answering sophisticated business questions using complex data patterns. He/She will advocate, evangelize and build innovative data-fuelled models that support our success. The ideal candidate demonstrates a strong passion for producing new, creative and leading-edge analytics solutions.
 
 RESPONSIBILITIES
@@ -402,7 +402,7 @@ Capacité à synthétiser, simplifier et présenter de l’information complexe 
 Capacité à concevoir et présenter des ensembles de données complexes dans une variété de formats visuellement attrayants
 Habileté à réussir dans un environnement orienté sur la performance et au rythme rapide
 Esprit d’équipe et fortes compétences relationnelles",4.1,"SSENSE
-4.1",Montreal,-1,501 to 1000 Employees,2003,Company - Private,"Department, Clothing, & Shoe Stores",Retail,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,SSENSE,QC,17,1,1,1,0,1,Python
+4.1",Montreal,-1,501 to 1000 Employees,2003,Company - Private,"Department, Clothing, & Shoe Stores",Retail,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,SSENSE,QC,17,1,1,1,0,1,data scientist,senior,5605
 Data Engineer,CA$58k-CA$90k (Glassdoor Est.),"Position Overview
 
 Title: Data Engineer
@@ -506,7 +506,7 @@ For more information about Kids Help Phone, please visit our website at http://o
 Kids Help Phone is an equal opportunity employer, values diversity of people and communities, and is committed to excellence and inclusion in our organization. We welcome applications from visible minority group members, women, Indigenous persons, and persons with disabilities, members of sexual minority groups, and others who respect and reflect the diversity of service users.
 
 Kids Help Phone is committed to providing barrier-free environment and accommodation in accordance with the Accessibility of Ontarians with Disabilities Act (AODA). If contacted for an employment opportunity, please advise Human Resources person if your require accommodation at any stage of the recruitment process.",3.1,"Kids Help Phone
-3.1",Canada,-1,51 to 200 Employees,-1,Nonprofit Organization,Social Assistance,Non-Profit,$10 to $25 million (USD),-1,0,0,58.0,90,74.0,Kids Help Phone,Unknown,-1,0,1,0,0,1,Python
+3.1",Canada,-1,51 to 200 Employees,-1,Nonprofit Organization,Social Assistance,Non-Profit,$10 to $25 million (USD),-1,0,0,58.0,90,74.0,Kids Help Phone,Unknown,-1,0,1,0,0,1,data engineer,na,5722
 "Data Scientist, Fraud Analytics",CA$58k-CA$90k (Glassdoor Est.),"Data Scientist Fraud Analytics
 
 Fraud Management at Interac means building data products and models that separate the small number of frauds from the millions of legitimate payments processed every day. As a Data Scientist in Fraud Analytics you will be responsible for building the tools that protect Canadians money from criminals.
@@ -549,7 +549,7 @@ Interac Corp. operates an economical, world-class debit payments system with bro
 Interac Corp. believes in providing an inclusive workplace where all individuals have the opportunity to succeed. We are committed to doing so by providing accessible employment practices. Contact a member of the Human Resources department if you need accommodation at any point in the application process or want more information about our Accessibility Policy, which is also available online here.
 
 Powered by JazzHR",3.6,"Interac
-3.6",Toronto,-1,201 to 500 Employees,1984,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Interac,ON,36,1,1,1,1,1,Python
+3.6",Toronto,-1,201 to 500 Employees,1984,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Interac,ON,36,1,1,1,1,1,data scientist,na,4356
 Junior Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"***LE FRANCAIS SUIT***
 
 Position Title: Junior Data Scientist
@@ -660,7 +660,7 @@ Paid time off
 Education:
 Bachelor's Degree (Required)
 Work remotely:
-Yes",-1.0,Labour Market Information Council | Conseil de l’information sur le ma,Ottawa,-1,-1,-1,-1,-1,-1,-1,-1,0,0,58.0,90,74.0,Labour Market Information Council | Conseil de l’information sur le ma,ON,-1,1,1,0,1,1,Python
+Yes",-1.0,Labour Market Information Council | Conseil de l’information sur le ma,Ottawa,-1,-1,-1,-1,-1,-1,-1,-1,0,0,58.0,90,74.0,Labour Market Information Council | Conseil de l’information sur le ma,ON,-1,1,1,0,1,1,data scientist,jr,9642
 Geospatial Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Geospatial Data Scientist
 
 Alberta Biodiversity Monitoring Institute
@@ -698,7 +698,7 @@ Superior written and verbal communications skills
 Strong planning ability and demonstrated strategic thinking
 Team oriented with excellent relationship-building skills
 Ability to work independently, prioritize, adapt to rapidly shifting priorities and manage projects from start to completion",4.4,"University of Alberta
-4.4",Edmonton,-1,10000+ Employees,-1,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),-1,0,0,58.0,90,74.0,University of Alberta,AB,-1,0,1,0,0,1,Python
+4.4",Edmonton,-1,10000+ Employees,-1,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),-1,0,0,58.0,90,74.0,University of Alberta,AB,-1,0,1,0,0,1,data scientist,na,4695
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Job Description
 
 XGen is looking for a Data Scientist to work with our team in Vancouver to deliver a new state of the art Cloud-based AI-First system powered by XGen’s AI Technology. The ideal candidate would have over 2 years of experience in large-scale data environments and enterprise-level software development, and previous experience with recommendation systems and e-commerce platforms.
@@ -744,7 +744,7 @@ Schedule:
 Monday to Friday
 Work remotely:
 Temporarily due to COVID-19",3.7,"XGen
-3.7",Vancouver,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,58.0,90,74.0,XGen,BC,-1,1,1,0,1,0,Python
+3.7",Vancouver,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,58.0,90,74.0,XGen,BC,-1,1,1,0,1,0,data scientist,na,2443
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"About Assurance
 At Assurance we are disrupting the antiquated and inefficient world of insurance and financial services. Our team of world class software engineers, data scientists, and business professionals are modernizing how people obtain and manage their financial life all through our powerful platform ecosystem. We are rapidly growing as we expand our product offerings and global footprint, and this growth continues to present new and exciting challenges as we push our industry into its future. We eliminate waste throughout the industry and calculate the complex into simple, valuable solutions to improve people's lives. We are humble, driven, and committed to improving the lives of millions.
 
@@ -770,7 +770,7 @@ Comfortable having conversations with our executive team and non-technical team 
 
 
 Please review our CCPA policies here.",3.4,"Assurance Careers
-3.4",Toronto,-1,201 to 500 Employees,2016,Company - Public,Internet,Information Technology,$100 to $500 million (USD),-1,0,0,58.0,90,74.0,Assurance Careers,ON,4,1,1,0,1,1,Python
+3.4",Toronto,-1,201 to 500 Employees,2016,Company - Public,Internet,Information Technology,$100 to $500 million (USD),-1,0,0,58.0,90,74.0,Assurance Careers,ON,4,1,1,0,1,1,data scientist,na,3731
 Data Scientist - QuantumBlack,CA$58k-CA$90k (Glassdoor Est.),"You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally.
 
 You will influence many of the recommendations our clients need to positively change their businesses and enhance performance.
@@ -805,7 +805,7 @@ Please submit your CV in English
 Visit our Careers site to watch our video and read about our interview processes and benefits
 
 As an equal opportunity employer, QuantumBlack encourages applications from all backgrounds regardless of gender, race, disability, pregnancy, marital status, age, sexual orientation, gender reassignment, religion or belief. We maintain a sense of community rooted in respect and consideration for all employees where any evaluation is based simply upon individual work and team performance.",4.4,"McKinsey & Company
-4.4",Montreal,-1,10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,McKinsey & Company,QC,94,0,1,0,0,1,Python
+4.4",Montreal,-1,10000+ Employees,1926,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,McKinsey & Company,QC,94,0,1,0,0,1,data scientist,na,4674
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"DocuPet, the foremost provider of outsourced pet licensing services for municipalities across North America, is expanding rapidly. Our mission of providing a safe and happy home for every pet is of the utmost importance, and we need the help of amazing people to achieve this goal.
 
 *
@@ -897,7 +897,7 @@ Language:
 English (Required)
 Work remotely:
 Yes",5.0,"DocuPet
-5.0",Kingston,-1,1 to 50 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,DocuPet,ON,8,1,1,0,1,1,Python
+5.0",Kingston,-1,1 to 50 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,DocuPet,ON,8,1,1,0,1,1,data scientist,na,6368
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Lixar is looking for a Data Scientist to join our team in a new and exciting exploratory role. This hands-on person will be involved in the creation of sophisticated algorithms and data mining strategies designed to maximize the value of our customer’s data, while playing an instrumental role in the development of Lixar’s Data offering.
 
 As a Data Scientist, you will have:
@@ -944,7 +944,7 @@ ottawacareers@lixar.com | eastcoastcareers@lixar.com
 Thank you for applying! We look forward to meeting with the selected interview candidates.
 
 Lixar IT welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",3.3,"Lixar IT
-3.3",Halifax,-1,51 to 200 Employees,2000,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),-1,0,0,58.0,90,74.0,Lixar IT,NS,20,1,1,0,0,1,Python
+3.3",Halifax,-1,51 to 200 Employees,2000,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),-1,0,0,58.0,90,74.0,Lixar IT,NS,20,1,1,0,0,1,data scientist,na,2683
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Fujitsu
 
 Named again in 2019 as one of FORTUNE’s ‘World’s Most Admired Companies’, Fujitsu is a leading multinational information and communication technology (ICT) company at the forefront of driving enterprise-scale digital transformation initiatives in organizations and communities around the world. Offering a full range of technology products, solutions and services, Fujitsu’s commitment to R&D continues to deliver cutting-edge technologies, particularly in the fields of artificial intelligence, quantum-inspired computing, IoT, blockchain, and supercomputing. Combined with its core offerings in IT infrastructure and cloud transformation, this has enabled Fujitsu to develop vast international business operations employing over 132,000 people in 100 countries worldwide in all business sectors at the heart of the global economy. Additionally, Fujitsu’s strong orientation towards the environment, sustainability, and social/societal impact, has ensured it continues to be named to the Dow Jones Sustainability World (DJSI World), the world’s leading Socially Responsible Investment (SRI) index, year after year.
@@ -999,7 +999,7 @@ Consulting or experience in a client-facing role
 Experience with Big Data technologies such as Hadoop and Spark
 Experience with visualization platforms such as Tableau and PowerBI
 Experience with relational databases, SQL and data modeling",3.9,"Fujitsu
-3.9",Vancouver,-1,10000+ Employees,1935,Company - Public,-1,-1,$5 to $10 billion (USD),-1,0,0,58.0,90,74.0,Fujitsu,BC,85,1,1,1,0,1,Python
+3.9",Vancouver,-1,10000+ Employees,1935,Company - Public,-1,-1,$5 to $10 billion (USD),-1,0,0,58.0,90,74.0,Fujitsu,BC,85,1,1,1,0,1,data scientist,na,6172
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Our downtown Vancouver client is looking for a smart, passionate, and highly skilled Applied Data Scientist with experience working in startups and larger companies in a high-tempo, dynamic environments.
 
 They are expanding their team of passionate thought leaders as they pursue their goal of disrupting the U.S. health sector with their vision and technology. They are committed to developing leading edge solutions in a supportive environment, focused on customer success and employee fulfillment. They provide their employees an environment in which they can contribute from day one while also providing opportunities for learning and growth. In turn, these optimizations will help to lower the cost of health care services for consumers.
@@ -1023,7 +1023,7 @@ Experience with distributed data processing systems such as Spark,
 Experience using business analytics tools such as PowerBI,
 Past experience with databricks is a plus, and
 Proven ability to document work clearly and communicate to both technical and non-technical audiences",4.7,"TalentVault
-4.7",Vancouver,-1,1 to 50 Employees,2016,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,TalentVault,BC,4,1,1,1,0,0,Python
+4.7",Vancouver,-1,1 to 50 Employees,2016,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,TalentVault,BC,4,1,1,1,0,0,data scientist,na,2204
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Company Description
 
 At Ubisoft Montreal, a preeminent developer of video games located in Montreal’s dynamic Mile-End neighbourhood since 1997, we offer a work environment unique in the industry for allowing you to build and cultivate games that are part of critically acclaimed, iconic AAA franchises of international repute.
@@ -1061,7 +1061,7 @@ Additional Information
 Skills and competencies show up in different forms and can be based on different experiences, that's why we strongly encourage you to apply even though you may not have all the requirements listed above.
 
 At Ubisoft, you can come as you are. We embrace diversity in all its forms. We’re committed to fostering a work environment that is inclusive and respectful of all differences.",3.8,"Ubisoft
-3.8",Montreal,-1,10000+ Employees,1986,Company - Public,Video Games,Media,$2 to $5 billion (USD),-1,0,0,58.0,90,74.0,Ubisoft,QC,34,1,1,1,0,0,Python
+3.8",Montreal,-1,10000+ Employees,1986,Company - Public,Video Games,Media,$2 to $5 billion (USD),-1,0,0,58.0,90,74.0,Ubisoft,QC,34,1,1,1,0,0,data scientist,na,2836
 Data Scientist - Contract,CA$58k-CA$90k (Glassdoor Est.),"We have several clients that have ongoing needs for Data Scientists & Data Engineers in long term contract capacities. If you're interested in being considered for current and future opportunities - please apply.
 
 General description of what we're looking for:
@@ -1090,7 +1090,7 @@ What You Will Be Doing
 • Apply theories and conduct experiments using available toolsets
 • Provide mentorship in data mining & machine learning techniques
 • Conduct studies, tests and use advanced data mining & modelling techniques to build solutions that optimize the quality and performance of the company's data",3.4,"The Well - Creative Consultants
-3.4",Ontario,-1,51 to 200 Employees,2015,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,The Well - Creative Consultants,ON,5,1,1,0,0,1,Python
+3.4",Ontario,-1,51 to 200 Employees,2015,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,The Well - Creative Consultants,ON,5,1,1,0,0,1,data scientist,na,1907
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Wanted: A Data visualisation expert who will help us transform customer data into actionable insight
 
 PN is looking for an ambitious, persuasive data visualization guru who’s passionate about health, fitness and helping people live their best life.
@@ -1180,7 +1180,7 @@ Not every data scientist job allows you time in the driver’s seat, but with th
 Plus: no commute ... and no 9-to-5 grind.
 
 Sound like we might just be the perfect company for you? Then you might just be the perfect fit for us. Click Apply for this Job below to get started!",4.8,"Precision Nutrition
-4.8",Toronto,-1,51 to 200 Employees,2001,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Precision Nutrition,ON,19,1,1,0,0,1,Python
+4.8",Toronto,-1,51 to 200 Employees,2001,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Precision Nutrition,ON,19,1,1,0,0,1,data scientist,na,8435
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Events in recent years have made us all too familiar with the havoc that natural disasters can wreak, and the increasing frequency and intensity with which they are occurring. Despite record levels of losses, conventional methods of risk modeling continue to paint at best an incomplete picture of these threats.
 
 Zesty.ai uses novel data gathering and data science methods to produce higher quality information about the risks to property from catastrophes like floods and wildfires. While AI alone may not be able to thwart these disasters, it can help us become more prepared for them, and ultimately that will lead to better outcomes.
@@ -1214,7 +1214,7 @@ Flexible Time Off
 An upbeat and collaborative work culture
 Company-sponsored outings and offsites
 All your information will be kept confidential according to EEO guidelines.",5.0,"Zesty.ai
-5.0",Montreal,-1,1 to 50 Employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Zesty.ai,QC,5,0,1,0,1,0,Python
+5.0",Montreal,-1,1 to 50 Employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Zesty.ai,QC,5,0,1,0,1,0,data scientist,na,2972
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Data Scientist
 
 REQ:
@@ -1283,7 +1283,7 @@ Apply Now
 
 Employees of Providence Health Care receive an excellent and comprehensive health benefit package, as per their collective agreement or terms and conditions of employment.
 Other benefit packages may apply if this is an affiliate posting.",4.0,"Providence Health Care
-4.0",Vancouver,-1,5001 to 10000 Employees,1894,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,58.0,90,74.0,Providence Health Care,BC,126,1,1,1,1,1,Python
+4.0",Vancouver,-1,5001 to 10000 Employees,1894,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,58.0,90,74.0,Providence Health Care,BC,126,1,1,1,1,1,data scientist,na,8424
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"// English version will follow //
 
 Titre : Scientifique de données
@@ -1353,7 +1353,7 @@ Maturity to give and receive constructive feedback.
 
 Motivation & interest:
 Passion and ambition for video games are essential!",3.5,"Eidos Montreal
-3.5",Montreal,-1,201 to 500 Employees,-1,Company - Public,Video Games,Media,$25 to $50 million (USD),-1,0,0,58.0,90,74.0,Eidos Montreal,QC,-1,1,1,1,0,1,Python
+3.5",Montreal,-1,201 to 500 Employees,-1,Company - Public,Video Games,Media,$25 to $50 million (USD),-1,0,0,58.0,90,74.0,Eidos Montreal,QC,-1,1,1,1,0,1,data scientist,na,3840
 Junior Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Reporting to the Lead of Advanced Analytics & Data Science, the Junior Data Scientist will be responsible for contributing to the design and development of advanced analytics products. The Junior Data Scientist will bring problem-solving and lean thinking to deliver products for analysts, managers, and leaders across the organization. The ideal candidate will be excited to work with both financial and health care data to improve patient care, recommend business solutions, and create efficiencies by using advanced analytical techniques and data science.
 
 The successful candidate will be responsible for the following:
@@ -1380,7 +1380,7 @@ Demonstrated ability to learn, internalize and convey new and complex technical 
 Experience with source control such as GIT is considered an asset
 Experience with implementing automated data pipelines using deployment software (i.e. AirFlow, SSIS) considered an asset
 Knowledge of relevant health care and financial datasets considered an asset (e.g. Hospital Information Systems, General Ledger, CIHI DAD & NACRS, CCAC CHRIS and RAI, MIS and CHC data sets)",3.5,"Hamilton Health Sciences
-3.5",Hamilton,-1,5001 to 10000 Employees,1991,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,58.0,90,74.0,Hamilton Health Sciences,ON,29,1,1,0,0,0,Python
+3.5",Hamilton,-1,5001 to 10000 Employees,1991,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,58.0,90,74.0,Hamilton Health Sciences,ON,29,1,1,0,0,0,data scientist,jr,3205
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"LOCATION: Calgary, Alberta (CA-AB)
 JOB NUMBER: 41297
 
@@ -1448,7 +1448,7 @@ We are an equal opportunity employer and encourage applications from all qualifi
 Please note that our job postings are typically open for two weeks, so don't delay, apply now.
 
 JOB CATEGORY: Business Professionals",3.9,"Suncor Energy Services
-3.9",Calgary,-1,10000+ Employees,1967,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1,0,0,58.0,90,74.0,Suncor Energy Services,AB,53,1,1,0,0,1,Python
+3.9",Calgary,-1,10000+ Employees,1967,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1,0,0,58.0,90,74.0,Suncor Energy Services,AB,53,1,1,0,0,1,data scientist,na,7578
 Data Scientist.,CA$58k-CA$90k (Glassdoor Est.),"Job Description
 Status: Permanent – Full-time
 Location: Montréal – Griffintown
@@ -1484,7 +1484,7 @@ Familiarity with Deep Learning libraries such as TensorFlow or Theano or CNTK.
 Experience with GIT and Continuous Integration.
 Being open to learn and explore new technologies.
 Experience working in an agile environment (preferably, Scrum).",5.0,"Brain Finance
-5.0",Montreal,-1,51 to 200 Employees,-1,Private Practice / Firm,-1,-1,Less than $1 million (USD),-1,0,0,58.0,90,74.0,Brain Finance,QC,-1,1,1,1,0,0,Python
+5.0",Montreal,-1,51 to 200 Employees,-1,Private Practice / Firm,-1,-1,Less than $1 million (USD),-1,0,0,58.0,90,74.0,Brain Finance,QC,-1,1,1,1,0,0,data scientist,na,2308
 Data Scientist,CA$58k-CA$90k (Glassdoor Est.),"Design, develop, test, advocate, evangelize and build data-driven products that help our customers improve business decisions. You will provide insight into analytic practices, design and lead iterative learning and development cycles.
 Responsibilities
 Understanding and worked with database systems.
@@ -1516,7 +1516,7 @@ Nice to haves...
 Experience in some subset of the following: Java, R, Python, SQL, Scala, Spark.
 Ph.D. in operations research, applied statistics, data mining, machine learning, physics or a related quantitative discipline.
 Deep understanding of statistical and predictive modeling concepts, machine-learning approaches, clustering and classification techniques, supervised learning, recommendation and optimization algorithms.",3.9,"Cerebri AI
-3.9",Toronto,-1,1 to 50 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Cerebri AI,ON,4,1,1,1,0,0,Python
+3.9",Toronto,-1,1 to 50 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,58.0,90,74.0,Cerebri AI,ON,4,1,1,1,0,0,data scientist,na,1773
 Cellular Immunology Scientist,-2,"Should you consider yourself to be among the best scientists or analysts in town, here is your chance to participate in the daily life of the most successful advanced testing service provider in the immunology field. Involved in more than 15 SARS-CoV-2 vaccine developments in partnership with multinational pharmaceutical companies, innovative biotechnology companies and prestigious NGOs such as Bill and Melinda Gates Foundation or CEPI, we also proudly serve the needs of our clients in fields such as Flu (universal and seasonal), meningitis, respiratory syncytial virus, chikungunya, malaria, or HPV and are growing an immune-oncology franchise.
 
 In this key position, you would:
@@ -1560,7 +1560,7 @@ Formation:
 Baccalauréat (Requis)
 Télétravail:
 Temporairement en raison de la COVID-19",3.4,"Nexelis
-3.4",Laval,-1,51 to 200 Employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),-1,0,0,,2,,Nexelis,QC,-1,0,1,0,0,0,Python
+3.4",Laval,-1,51 to 200 Employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),-1,0,0,,2,,Nexelis,QC,-1,0,1,0,0,0,na,na,2733
 Data Scientist,-2,"Excited by using massive amounts of data to create sophisticated security analytics? Does pushing the envelope with user and entity behavior analytics (UEBA) including developing statistical, stochastic and machine learning models for security excite you? Want to help the largest global enterprises operate safely & securely in the cloud at an unprecedented scale?
 
 You will enhance real-time proactive and preemptive systems using data driven techniques. The analytic techniques are applied at each stage from detection to response mitigation. This job will challenge you to dive deep and understand the unique challenges in operating this platform at a scale unrivaled in the industry. Our scale provides unique opportunities that simply dont exist elsewhere, but these opportunities can only be revealed by a scientific thinker with a curious mind, who is committed to improving every single day.
@@ -1600,7 +1600,7 @@ Preferred Qualifications
 · Meets/exceeds Amazons leadership principles requirements for this role
 · Meets/exceeds Amazons functional/technical depth and complexity for this role
 Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us",3.9,"Amazon
-3.9",Ontario,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,,2,,Amazon,ON,26,1,1,1,1,1,Python
+3.9",Ontario,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,,2,,Amazon,ON,26,1,1,1,1,1,data scientist,na,4556
 Data Scientist,-2,"The Opportunity:
 
 Introhive is seeking an ambitious, well-rounded senior Data Scientist to join our growing Data Science department. This position would be able to be worked out of our Fredericton office or remotely in Canada. Introhive offers a unique opportunity to work on very large data sets and solve challenging business problems using ML, Deep Learning and NLP. If this sounds intriguing, then we would like to talk to you about this key role in within the technical team.
@@ -1640,7 +1640,7 @@ Marketing: Score and prioritize leads and segment marketing lists based on exist
 About Introhive:
 
 Introhive is a venture-funded company with investors that include Build Ventures, GAP CIT, Fortify, Growthworks, NBIF and Salesforce.com. The company was founded in 2012. Our Canadian work spaces boast beautiful and conveniently located offices. We also offer an RRSP matching plan, health and dental benefits as well as education opportunities and a LinkedIn Learning license. Most offices are also pet friendly!",4.1,"Introhive
-4.1",Fredericton,-1,201 to 500 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Introhive,NB,8,1,1,0,1,0,Python
+4.1",Fredericton,-1,201 to 500 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Introhive,NB,8,1,1,0,1,0,data scientist,na,3432
 Data Scientist,-2,"CGI has an opportunity for a Data Scientist to join our team in Ottawa. Attributes that define our ideal candidates will include:
 analytical curiosity, strong data-oriented skills and a statistical programming background
 Possess a successful track record of designing and developing AI/ML algorithms for private or public sector solutions
@@ -1704,7 +1704,7 @@ Knowledge of the Python data ecosystem using pandas and NumPy Experience buildin
 Expertise with Agile development methodology and Continuous delivery best practices
 Knowledge of RPA automation tools such as UIPath
 Security Clearance required: Enhanced Level",3.5,"CGI
-3.5",Ottawa,-1,10000+ Employees,1976,Company - Public,Consulting,Business Services,$10+ billion (USD),-1,0,0,,2,,CGI,ON,44,1,1,1,0,0,Python
+3.5",Ottawa,-1,10000+ Employees,1976,Company - Public,Consulting,Business Services,$10+ billion (USD),-1,0,0,,2,,CGI,ON,44,1,1,1,0,0,data scientist,na,5232
 Data Scientist Intern,-2,"Guavus, a Thales company, is seeking a Data Scientist Intern. This is an exciting, technical role based in our Montreal office. It is focused on enabling our customers to create real, practical value through advanced analytics on their streaming data. Our customers – primarily large telecom service providers – use Guavus’ analytics to increase revenues or reduce costs by better network optimization, customer experience optimization, churn management, marketing, etc.
 
 We offer 4 months internship with a possibility to extend to 8 months. We have full time position available for interns that stand out after the end of their internship & classes.
@@ -1731,7 +1731,7 @@ Perform data validation exercises, tracing data from source to applications to c
 implementation designs
 Analyze data and present insights
 Document data analysis work and results",2.8,"Guavus
-2.8",Montreal,-1,201 to 500 Employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,0,0,,2,,Guavus,QC,14,1,1,1,0,1,Python
+2.8",Montreal,-1,201 to 500 Employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,0,0,,2,,Guavus,QC,14,1,1,1,0,1,data scientist,na,2867
 Data Scientist,-2,"Create better business outcomes with your analytical acumen and creativity.
 
 Join our team
@@ -1771,7 +1771,7 @@ Do you share our passion?
 At TELUS, you create future friendly® possibilities.
 
 At TELUS, we are committed to diversity and equitable access to employment opportunities based on ability.",3.9,"TELUS
-3.9",Canada,-1,10000+ Employees,1998,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),-1,0,0,,2,,TELUS,Unknown,22,1,1,0,0,0,Python
+3.9",Canada,-1,10000+ Employees,1998,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),-1,0,0,,2,,TELUS,Unknown,22,1,1,0,0,0,data scientist,na,3259
 Data Scientist,-2,"Le Data Scientist sera responsable deffectuer letraitement des données massives (Big Data) de nouvelles sources complexes afin
 doptimiser la présentation des données.
 
@@ -1803,7 +1803,7 @@ télétravail;
 BAC en informatique ou léquivalent;
 
 Anglais requis.",5.0,"DELAN
-5.0",Montreal,-1,1 to 50 Employees,1997,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,DELAN,QC,23,0,1,1,1,0,Python
+5.0",Montreal,-1,1 to 50 Employees,1997,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,DELAN,QC,23,0,1,1,1,0,data scientist,na,703
 Data Scientist,-2,"About Us
 
 We’re a leading financial technology company in the institutional debt capital markets - the largest capital market globally and the lifeline of finance world - that is laser focused on transforming how global investment banks, institutional investors, corporations and governments can better execute transactions, price discover and engage with each other. Overbond is building a first-of-its-kind cloud-based platform that makes new bond issuance digital, transparent, and secure. Our team consists of individuals with deep expertise, from both a technical and industry perspective, that are truly motivated by the fact that we are making a significant impact on how global capital markets operate. We value sharp minds, integrity, high performance, collaboration, and purpose. Our mindset is to innovate and challenge convention. At Overbond, we believe that change is the only constant and that problems are opportunities in disguise.
@@ -1838,7 +1838,7 @@ Opportunity to work on a real product with very demanding paying enterprise clie
 Lots of opportunity for learning and self-development
 Ability to contribute in all stages of product development
 Successful candidate(s) will have a truly exciting opportunity to be part of the industry leading financial technology company changing the way how global investment banks, institutional investors, corporations and governments access the capital markets. The candidate will work with top notch industry professionals and will be given ample amount of opportunities to learn and contribute.",3.7,"Overbond
-3.7",Toronto,-1,1 to 50 Employees,2020,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable,-1,0,0,,2,,Overbond,ON,0,1,1,0,0,1,Python
+3.7",Toronto,-1,1 to 50 Employees,2020,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable,-1,0,0,,2,,Overbond,ON,0,1,1,0,0,1,data scientist,na,4386
 Machine Learning Data Scientist,-2,"We are working with our client to develop specific data sets with limited fields to which advanced technologies can be applied to optimize service delivery, identify and remove sub optimal processes, reinvent products and services, and accelerate operational efficiency.
 
 Our goal is to help our Client focus on areas of opportunity and identify solutions that will improve the provision of high performance reliability to their customers.
@@ -1893,7 +1893,7 @@ Business Skills
 • Enthusiasm for problem solving, innovation, and human-centered design
 • Experience working in or with larger enterprise-level organizations
 • Demonstrated professional experience is service design, human-centered design, qualitative research & discovery, and systems thinking",3.5,"CGI
-3.5",Toronto,-1,10000+ Employees,1976,Company - Public,Consulting,Business Services,$10+ billion (USD),-1,0,0,,2,,CGI,ON,44,1,1,0,0,1,Python
+3.5",Toronto,-1,10000+ Employees,1976,Company - Public,Consulting,Business Services,$10+ billion (USD),-1,0,0,,2,,CGI,ON,44,1,1,0,0,1,data scientist,na,4089
 Data Scientist 4,-2,"Data Scientist 4-20000K8Z Applicants are required to read, write, and speak the following languages: English
 Preferred Qualifications
 
@@ -1917,7 +1917,7 @@ Job Type
 : Regular Employee Hire
 Organization
 : Oracle",3.6,"Oracle
-3.6",Canada,-1,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1,0,0,,2,,Oracle,Unknown,43,0,1,0,0,0,Python
+3.6",Canada,-1,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1,0,0,,2,,Oracle,Unknown,43,0,1,0,0,0,data scientist,na,1867
 Data Scientist,-2,"We make small businesses more successful through better banking.
 
 Our company is looking for a Data Scientist to join our growing team as we enter a new phase of expansion We are a Toronto and New York-based, venture-backed startup at the heart of the FinTech movement that is shaping the way financial services are delivered.
@@ -1955,7 +1955,7 @@ Leadership: You're right in the thick of it, making critical decisions that will
 We offer full health/dental benefits, competitive compensation/equity, and one hell of an adventure.
 
 If you recognize yourself in this job description, let's talk.",4.2,"NorthOne
-4.2",Toronto,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,NorthOne,ON,-1,1,1,0,0,1,Python
+4.2",Toronto,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,NorthOne,ON,-1,1,1,0,0,1,data scientist,na,2754
 Data Scientist,-2,"ABOUT MOBSQUAD
 
 We are a well-funded, hyper-growth, scale-up looking for an experienced Data Scientist. If you've ever dreamed of working with a top tier technology company scale-up, on leading edge technologies, backed by the very best venture capitalists in the world, then this is your chance.
@@ -1995,7 +1995,7 @@ A downtown office location with first-rate amenities, surrounded by great restau
 For international candidates, sponsorship for an immediate work permit, expedited permanent residency, and Canadian citizenship within four years
 
 At MobSquad, we support and encourage building a work environment that is diverse, inclusive, and safe for all. We invite and welcome applicants of all backgrounds, regardless of race, religion, sexual orientation, gender identity, national origin, or disability.",4.4,"MobSquad
-4.4",Calgary,-1,1 to 50 Employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,MobSquad,AB,-1,1,1,1,0,1,Python
+4.4",Calgary,-1,1 to 50 Employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,MobSquad,AB,-1,1,1,1,0,1,data scientist,na,5007
 Data Scientist,-2,"About 25% of the world’s drinking water leaks out of aging underground pipes before reaching anyone’s tap. Echologics is helping to lead a global charge to change this through technological innovation. Our innovative technology and services allow water utilities to manage their pipelines based on reliable information about their condition simply by placing sensors on valves and fire hydrants. With custom-engineered technologies for detecting and locating leaks, as well as distinguishing healthy pipes from degraded ones, Echologics offers our customers a truly unique set of information-gathering tools.
 
 Echologics is currently searching for a Data Scientist for our Toronto, Ontario location.
@@ -2043,7 +2043,7 @@ Echologics is committed to providing accommodation for people with disabilities.
 
 We thank all applicants for their interest, however, only those selected for interview will be contacted.
 We are an equal opportunity employer. Employment selection and related decisions are made without regard to sexual orientation, race, color, age, disability, religion, national origin, citizenship status and creed.",3.0,"Mueller Water Products
-3.0",Toronto,-1,1001 to 5000 Employees,1857,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),-1,0,0,,2,,Mueller Water Products,ON,163,1,1,0,0,1,Python
+3.0",Toronto,-1,1001 to 5000 Employees,1857,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),-1,0,0,,2,,Mueller Water Products,ON,163,1,1,0,0,1,data scientist,na,4515
 Data Scientist,-2,"ADT by TELUS is part of the TELUS family, a world-leading communications and information technology company based in Vancouver with $14.6 billion in annual revenue and 14.2 million customer connections spanning wireless, data, IP, voice, television, entertainment, video and security.
 
 TELUS has more than 25,000 team members from coast to coast. Leveraging its award-winning networks to bring security and automation solutions to Canadians in Western Canada and Quebec.
@@ -2092,7 +2092,7 @@ Exceptional communication and interpersonal skills
 ADT by TELUS provides equal access to employment opportunities for all applicants and employees in accordance with applicable federal and provincial laws, without regard to race, ancestry, place of origin, color, ethnic origin, citizenship, creed, sex, sexual orientation, age, marital status, family status or disability or any other characteristic protected by provincial or federal law.
 
 ADT by TELUS is committed to treating all people in a way that allows them to maintain their dignity and independence. We believe in integration and equal opportunity. Accommodations are available upon request for all applicants with a disability throughout the recruitment process. Please contact Human Resources at hrhotline@adt.ca if you require accommodation. We will work with all applicants to accommodate their individual accessibility needs.",3.3,"ADT Security Services
-3.3",Montreal,-1,10000+ Employees,1874,Company - Public,Security Services,Business Services,$2 to $5 billion (USD),-1,0,0,,2,,ADT Security Services,QC,146,1,1,0,1,0,Python
+3.3",Montreal,-1,10000+ Employees,1874,Company - Public,Security Services,Business Services,$2 to $5 billion (USD),-1,0,0,,2,,ADT Security Services,QC,146,1,1,0,1,0,data scientist,na,5221
 Quantitative Analytics Consultant-,-2,"Job Summary
 The role is to provide research and develop valuation methodologies for HOOPP's derivatives, fixed income and equities investments. Implement and automate pricing models.
 Roles and Responsibilities
@@ -2121,7 +2121,7 @@ Intellectual curiosity and a passion for technology.
 Desire to learn in a highly collaborative environment.
 Ability to work collaboratively in a team environment, while also taking ownership of projects independently with minimal supervision.
 Advanced degree (Masters) in Finance, Mathematics, Statistics, Computer Science, Engineering, Economics or other quantitative field and a minimum of 5 years of relevant experience or equivalent combination of education and experience. Designation, e.g., CFA, FRM, or PRM, is an asset.",3.6,"HOOPP
-3.6",Toronto,-1,501 to 1000 Employees,1960,Nonprofit Organization,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,,2,,HOOPP,ON,60,1,1,0,0,0,Python
+3.6",Toronto,-1,501 to 1000 Employees,1960,Nonprofit Organization,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,,2,,HOOPP,ON,60,1,1,0,0,0,na,na,3162
 Data Scientist - 中国市场 (remote),-2,"Company Description
 
 You will join a world-class team of product leaders, engineers and data scientists from Facebook, Uber, Amazon and Google. We are a growing consulting firm with clients ranging from leading startups building impactful products to Fortune 500 companies looking to scale their engineering and data capabilities.
@@ -2140,7 +2140,7 @@ Additional Information
 We have very competitive compensation.
 
 Work on cool projects based on your interests and skills. We believe in accountability and NOT micro-management.",5.0,"Ample Insight Inc.
-5.0",Toronto,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,Ample Insight Inc.,ON,-1,1,1,0,0,0,Python
+5.0",Toronto,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,Ample Insight Inc.,ON,-1,1,1,0,0,0,data scientist,na,1148
 Data Scientist,-2,"About Larus
 
 Larus Technologies Corporation (http://www.larus.com) is an Ottawa-based software product and research company with capabilities in developing intelligent systems and engineering simulations for defence and security applications. Larus has three core business areas: Data Analytics and Fusion Solutions, including the Total::Insight™ Decision Support System and the Total::Perception™ Decision Support System, Software Engineering Services, primarily in the public security and defence sectors, and Research and Engineering, focusing on innovations in computational intelligence and data analytics.
@@ -2211,7 +2211,7 @@ Experience:
 AI/ML: 2 years (Required)
 Work remotely:
 Temporarily due to COVID-19",4.0,"Larus Technologies
-4.0",Ottawa,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,Larus Technologies,ON,-1,1,1,1,0,0,Python
+4.0",Ottawa,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,Larus Technologies,ON,-1,1,1,1,0,0,data scientist,na,2738
 Applied Data Scientist,-2,"Summary
 
 Are you interested in being part of a small team to build the next-generation industry-leading platform for healthcare markets? We are looking for smart, passionate, and a highly skilled Applied Data Scientist to join the effort to define and build the future of MacroHealth. You will be joining the Data Analytics team where we bring the power of data to our platform. The work you’ll do directly impacts our customers and business.
@@ -2243,7 +2243,7 @@ Experience with distributed data processing systems such as Spark,
 Experience using business analytics tools such as PowerBI,
 Past experience with databricks is a plus, and
 Proven ability to document work clearly and communicate to both technical and non-technical audiences
-Job Type: Full-time",-1.0,MacroHealth,Vancouver,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,MacroHealth,BC,-1,1,1,1,0,0,Python
+Job Type: Full-time",-1.0,MacroHealth,Vancouver,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,MacroHealth,BC,-1,1,1,1,0,0,data scientist,na,3158
 Data Scientist,-2,"RESPONSIBILITIES:
 Develop state-of-the-art computer vision algorithms for object detection, classification, and face recognition.
 Prototype hardware and software solutions for object detection, classification, and face recognition.
@@ -2265,7 +2265,7 @@ compensation:
 TBD
 
 How to apply:
-Please send your resume to hr@awakedata.com",-1.0,Awakedata,Canada,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,Awakedata,Unknown,-1,1,1,1,0,1,Python
+Please send your resume to hr@awakedata.com",-1.0,Awakedata,Canada,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,,2,,Awakedata,Unknown,-1,1,1,1,0,1,data scientist,na,1241
 Data & Applied Scientist - Gears of War - The Coalition,-2,"The Coalition Studio is seeking a passionate Data Scientist to support the studio in collecting and analyzing data to garner key business and gameplay insight.
 
 The Data Scientist will support the end-to-end Business intelligence process. From acquiring business requirements, designing out telemetry events, designing and creating reports; to applying analytical methods to drive value and insight from data
@@ -2296,7 +2296,7 @@ Microsoft is an equal opportunity employer. All qualified applicants will receiv
 Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
 
 #gamingjobs",4.3,"Microsoft
-4.3",Vancouver,-1,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1,0,0,,2,,Microsoft,BC,45,1,1,0,1,0,Python
+4.3",Vancouver,-1,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1,0,0,,2,,Microsoft,BC,45,1,1,0,1,0,na,na,2462
 Data Scientist,-2,"Important
 
 
@@ -2400,7 +2400,7 @@ CSIS is committed to diversity and inclusion and the equitable participation of 
 The personal information provided in your application is protected under the Privacy Act and will be held in Personal Information Bank SIS/P-PU-025.
 
 We thank all applicants for their interest in CSIS. However, only those who are selected for further consideration will be contacted.",2.6,"Canadian Security Intelligence Service
-2.6",Ottawa,-1,1 to 50 Employees,1984,Government,Federal Agencies,Government,Less than $1 million (USD),-1,0,0,,2,,Canadian Security Intelligence Service,ON,36,1,1,0,0,0,Python
+2.6",Ottawa,-1,1 to 50 Employees,1984,Government,Federal Agencies,Government,Less than $1 million (USD),-1,0,0,,2,,Canadian Security Intelligence Service,ON,36,1,1,0,0,0,data scientist,na,5778
 Data Scientist,-2,"We are looking for highly skilled Data Scientist to join our team. As a Data Scientist, you will join an exciting team of actuaries, data scientists and engineers at the forefront of using data to drive decisions at every level of the organization. You will be part of a dynamic small team with exposure to different business partners and direct influence on future products and innovative solutions. The team has already developed algorithms used in production systems and you will be part of the team that expands the scope of these algorithms. If you are passionate about Data Science and leveraging your analytical prowess to tackle business challenges, this role could be for you!
 
 Responsibilities:
@@ -2459,7 +2459,7 @@ Prodigy is committed to providing equitable treatment and accommodation to ensur
 Inclusion & Diversity
 
 At Prodigy we foster an inclusive and diverse workforce, believing our strength stems from our individual differences. Our employees, partners, and clients continuously benefit from the innovation and creativity grounded in these values. We strive to be a company that attracts a diverse group of highly skilled people who know that their contributions will be valued and that they will be heard. We are committed to building a corporate culture with people who are excited to join our team, do their best work, and grow with us!",4.1,"Prodigy Labs
-4.1",Toronto,-1,51 to 200 Employees,2014,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Prodigy Labs,ON,6,1,1,1,0,0,Python
+4.1",Toronto,-1,51 to 200 Employees,2014,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Prodigy Labs,ON,6,1,1,1,0,0,data scientist,na,5085
 Data Scientist,-2,"About the Company
 
 Created in 1989, SCALIAN is a leading multinational engineering consultancy firm specialized in Digital Systems and Operation Performance.Our expertise serves various technological sectors; aerospace, defense, railway, energy, healthcare, banking, IOT and the manufacturing industry, providing distinctive support to their development and operations. SCALIAN works with top companies where our collaborators play a critical role on some of the most challenging projects out there. This guarantees that our team is constantly expanding their expertise and knowledge horizon meanwhile supporting some of the best companies in the world.
@@ -2522,7 +2522,7 @@ Schedule:
 Overtime
 Work remotely:
 No",3.7,"Scalian Inc
-3.7",Montreal,-1,1001 to 5000 Employees,1989,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Scalian Inc,QC,31,1,1,1,0,1,Python
+3.7",Montreal,-1,1001 to 5000 Employees,1989,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Scalian Inc,QC,31,1,1,1,0,1,data scientist,na,4816
 Data Scientist II,-2,"Core Responsibilities
 
 1. Develops queries and performs extensive programming to access, transform, and prepare data for statistical modeling.
@@ -2559,7 +2559,7 @@ We believe that a critical aspect of doing the right thing requires building div
 When all crew members feel valued and included, our ability to collaborate and innovate is amplified, and we are united in delivering on Vanguard's core purpose.
 
 Our core purpose: To take a stand for all investors, to treat them fairly, and to give them the best chance for investment success.",3.3,"Vanguard
-3.3",Toronto,-1,10000+ Employees,1975,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,,2,,Vanguard,ON,45,0,1,0,0,0,Python
+3.3",Toronto,-1,10000+ Employees,1975,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,,2,,Vanguard,ON,45,0,1,0,0,0,data scientist,na,2995
 Big Data Engineer,-2,"Teranet is seeking an experienced Big Data Engineer to support its Data Analytics program. In this role, the successful candidate will be responsible for the ongoing monitoring and maintenance of Teranet’s data lake and the in-house developed and third-party software tools used to maintain it. In addition, the Big Data Engineer will work with consumers of the Teranet data lake to develop data views and data feeds according to their business needs and requirements. As part of this effort, the Big Data Engineer will be responsible for publishing data sets and views to the Teranet Data Analytics visualization platform so the data are accessible to downstream consumers. The Big Data Engineer will also collaborate with Teranet’s security team to ensure proper data access controls are in place, data is properly secured, and access activities are auditable.
 
 Key responsibilities include:
@@ -2583,7 +2583,7 @@ Bachelor’s degree in Computer, a quantitative field, or equivalent practical e
 3-4 years working with Hadoop related technologies (Spark, Hive, MapReduce, Sqoop, Impala)
 Advanced software development experience with Scala, Java, SQL and Python
 Familiarity with visualization and statistical modeling tools and languages (Tableau, R)",3.4,"Teranet
-3.4",Toronto,-1,501 to 1000 Employees,1991,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,0,0,,2,,Teranet,ON,29,1,1,1,0,0,Python
+3.4",Toronto,-1,501 to 1000 Employees,1991,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,0,0,,2,,Teranet,ON,29,1,1,1,0,0,data engineer,na,2407
 Data Scientist,-2,"Position: Data Scientist
 
 ID # 7GB0813DS
@@ -2613,7 +2613,7 @@ Note 2: High Tech Genesis Inc. is an Equal Opportunity Employer.
 Note 3: Accommodations are available upon request for all aspects of the hiring process.
 
 Interested! Apply here through the application button and we will get in touch with you!",5.0,"High Tech Genesis
-5.0",Ottawa,-1,51 to 200 Employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,High Tech Genesis,ON,12,1,1,1,0,0,Python
+5.0",Ottawa,-1,51 to 200 Employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,High Tech Genesis,ON,12,1,1,1,0,0,data scientist,na,1532
 Data Scientist,-2,"At Ingrooves Music Group, we are committed to powering creativity in today’s dynamic music marketplace by providing the best distribution, marketing, and rights management tools and services to content creators and owners. We develop state-of-the-art, cost-efficient, and scalable technology platforms. Our partners benefit from our experienced, knowledgeable people, unparalleled commitment to customer service, and thoughtful marketing solutions that drive results. We aspire to be the most transparent and solution-driven partner for all of the labels and artists we work with.
 
 How we LEAD:
@@ -2661,7 +2661,7 @@ Experience with AWS (i.e., EC2, S3, RDS, Redshift, EMR) or similar cloud computi
 Knowledge and experience of writing and tuning SQL
 Excellent communication and exposition skills with the ability to explain and present complex analyses and machine learning concepts to a broad audience, both technical and non-technical, in English
 Demonstrated ability to work creatively and deliver within highly collaborative work environments while remaining product focused.",3.5,"Ingrooves
-3.5",Victoria,-1,51 to 200 Employees,2002,Company - Private,Music Production & Distribution,Media,$100 to $500 million (USD),-1,0,0,,2,,Ingrooves,BC,18,1,1,1,1,1,Python
+3.5",Victoria,-1,51 to 200 Employees,2002,Company - Private,Music Production & Distribution,Media,$100 to $500 million (USD),-1,0,0,,2,,Ingrooves,BC,18,1,1,1,1,1,data scientist,na,4815
 "Data Scientist Modeling and strategies for granting and cycle cards, loans to retail and SME",-2,"Are you passionate by analytics and data?
 Are you interested in the credit risk sector?
 Do you care about the customer experience?
@@ -2694,7 +2694,7 @@ We strive to be an inclusive organization where all employees are valued. Nation
 See how we do it: https://jobs.nbc.ca/diversity
 
 #LI-BNC",4.0,"Banque Nationale du Canada
-4.0",Montreal,-1,10000+ Employees,1859,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),-1,0,0,,2,,Banque Nationale du Canada,QC,161,1,1,1,0,1,Python
+4.0",Montreal,-1,10000+ Employees,1859,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),-1,0,0,,2,,Banque Nationale du Canada,QC,161,1,1,1,0,1,data scientist,na,2678
 Data Scientist,-2,"Xero is a beautiful, easy-to-use platform that helps small businesses and their accounting and bookkeeping advisors grow and thrive.
 
 At Xero, our purpose is to make life better for people in small business, their advisors, and communities around the world. This purpose sits at the centre of everything we do. We support our people to do the best work of their lives so that they can help small businesses succeed through better tools, information and connections. Because when they succeed they make a difference, and when millions of small businesses are making a difference, the world is a more beautiful place.
@@ -2728,7 +2728,7 @@ Why Xero?
 At Xero, we are empowered to bring our ‘whole self’ to work. Our collaborative and inclusive culture is one we’re immensely proud of. We know that a diverse workforce is a strength that enables businesses, including ours, to better understand and serve customers, attract top talent and innovate. We care about learning together and celebrate our teams’ continuous improvement and career development.
 
 We offer a great remuneration package, including compelling benefits and perks, like Xero shares. We also support flexible working arrangements that allow you to balance your work, your life and your passions. Our Canadian Xero family includes Hubdoc, an automated data capture platform and we have offices in Toronto, Calgary, and Vancouver. From the moment you step through our doors, you’ll feel welcome and supported to do the best work of your life.",4.2,"Xero
-4.2",Toronto,-1,1001 to 5000 Employees,2006,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,0,0,,2,,Xero,ON,14,1,1,0,1,0,Python
+4.2",Toronto,-1,1001 to 5000 Employees,2006,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,0,0,,2,,Xero,ON,14,1,1,0,1,0,data scientist,na,4994
 Data Scientist,-2,"At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started.
 
 The impact you’ll make
@@ -2752,7 +2752,7 @@ How you’ll succeed
 At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce. You will get to work with some of the best digital minds and will have the support of world class technologies to craft products our customers will love!
 
 Loblaw Digital recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired. In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us.",3.5,"Loblaw Digital
-3.5",Toronto,-1,51 to 200 Employees,-1,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Loblaw Digital,ON,-1,1,1,1,1,0,Python
+3.5",Toronto,-1,51 to 200 Employees,-1,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,,2,,Loblaw Digital,ON,-1,1,1,1,1,0,data scientist,na,3523
 Data Engineer (Consultant) ,CA$80k-CA$107k (Glassdoor Est.),"Our client is looking for a “Data Engineer (Consultant)” too work in Montreal.
 
 JOB DESCRIPTION
@@ -2788,7 +2788,7 @@ To apply, send your resume to:
 r.jeon@maxsys.ca
 
 MAXTOR",3.6,"MaxSys Staffing & Consulting
-3.6",Montreal,-1,201 to 500 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,80.0,107,93.5,MaxSys Staffing & Consulting,QC,-1,1,1,1,0,0,Python
+3.6",Montreal,-1,201 to 500 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,80.0,107,93.5,MaxSys Staffing & Consulting,QC,-1,1,1,1,0,0,data engineer,na,1689
 Data Analyst (Remote),CA$80k-CA$107k (Glassdoor Est.),"At Yelp, its our mission to connect people with great local businesses. From a coffee connoisseurs review of a neighborhood cafe, to a homeowners request for a quote to remodel their kitchen, Yelps data captures millions of user-business interactions every day.
 
 The Data Science & Analytics team prides itself on harnessing the power of this data. We test and learn, build tools and lead meaningful analyses to extract insights that influence Yelps product and business strategy.
@@ -2818,7 +2818,7 @@ Were proud to be an equal opportunity employer and consider qualified applicants
 We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-recruiting@yelp.com or 415-969-8488.
 
 Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.",3.4,"Yelp
-3.4",Toronto,-1,5001 to 10000 Employees,2004,Company - Public,Internet,Information Technology,$1 to $2 billion (USD),-1,0,0,80.0,107,93.5,Yelp,ON,16,1,1,0,0,1,Python
+3.4",Toronto,-1,5001 to 10000 Employees,2004,Company - Public,Internet,Information Technology,$1 to $2 billion (USD),-1,0,0,80.0,107,93.5,Yelp,ON,16,1,1,0,0,1,analyst,na,4039
 Environmental Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Job Description
 
 
@@ -2859,7 +2859,7 @@ At SNC-Lavalin, we seek to hire individuals with diverse characteristics, backgr
 SNC-Lavalin cares about your privacy. SNC-Lavalin and other subsidiary or affiliated companies of SNC-Lavalin (referred to throughout as “SNC-Lavalin”) are committed to protecting your privacy. Please consult our Privacy Notice on our Careers site to know more about how we collect, use and transfer your Personal Data.
 
 By submitting your personal information to SNC-Lavalin, you confirm that you have read and accept our Privacy Notice.",3.3,"SNC-Lavalin
-3.3",Ottawa,-1,10000+ Employees,1911,Company - Public,Construction,"Construction, Repair & Maintenance",$5 to $10 billion (USD),-1,0,0,80.0,107,93.5,SNC-Lavalin,ON,109,0,1,0,0,1,Python
+3.3",Ottawa,-1,10000+ Employees,1911,Company - Public,Construction,"Construction, Repair & Maintenance",$5 to $10 billion (USD),-1,0,0,80.0,107,93.5,SNC-Lavalin,ON,109,0,1,0,0,1,data scientist,na,4097
 Data Scientist - Digital Accelerator Team (Contract),CA$80k-CA$107k (Glassdoor Est.),"Job description:
 
 Le point focal étant les clients, léquipe Accélérateur numérique sengage rehausser lexpérience de formation afin de sassurer que les pilotes soient les meilleurs possible.
@@ -2983,7 +2983,7 @@ Personal and Family Programs: Physical Wellness Plan & Supplementary Maternity P
 Work-Life Balance: Flextime & California Fridays all year
 Fun at work: social and community events all-year round!
 Job #43536",3.5,"Tundra
-3.5",Montreal,-1,201 to 500 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,Tundra,QC,16,1,1,1,0,1,Python
+3.5",Montreal,-1,201 to 500 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,Tundra,QC,16,1,1,1,0,1,data scientist,na,10104
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Replicon is looking to hire someone for our Time Intelligence platform who is passionate about taking data and transforming it into information and insights that can help our customers make the right decisions. Our SaaS application is used by thousands of customers, collecting data for millions of users, and we model business capabilities across many different industries.
 
 Objectives
@@ -3018,7 +3018,7 @@ Experience with AI/ML technologies (Tensorflow, Amazon Sagemaker, etc)
 Experience with SQL
 Experience working in an Agile environment
 A portfolio of relevant work to share",4.0,"Replicon
-4.0",Calgary,-1,201 to 500 Employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,0,0,80.0,107,93.5,Replicon,AB,24,1,1,0,0,0,Python
+4.0",Calgary,-1,201 to 500 Employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,0,0,80.0,107,93.5,Replicon,AB,24,1,1,0,0,0,data scientist,na,2789
 Data Scientist (Remote),CA$80k-CA$107k (Glassdoor Est.),"At Yelp, its our mission to connect people with great local businesses. Yelps unique dataset contains billions of interactions between users and local business around the globe, from a user reviewing a neighborhood coffee shop to requesting a repair quote with a photo of a leaky faucet. Data Scientists at Yelp work to make sense of these interactions to deliver impactful analyses and products to our users, business partners and the general public.
 
 The Data Science team performs analyses, builds models, and designs experiments that directly impact Yelps business and users. Our centralized team is the most wide-ranging consumer of data at Yelp, adept at tasks from modeling content growth and user behavior to sharing insights about the health of local economies. With varied backgrounds and expertise, we strive for learning and growth in a collaborative environment.
@@ -3046,7 +3046,7 @@ Were proud to be an equal opportunity employer and consider qualified applicants
 We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-recruiting@yelp.com or 415-969-8488.
 
 Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.",3.4,"Yelp
-3.4",Toronto,-1,5001 to 10000 Employees,2004,Company - Public,Internet,Information Technology,$1 to $2 billion (USD),-1,0,0,80.0,107,93.5,Yelp,ON,16,1,1,0,0,0,Python
+3.4",Toronto,-1,5001 to 10000 Employees,2004,Company - Public,Internet,Information Technology,$1 to $2 billion (USD),-1,0,0,80.0,107,93.5,Yelp,ON,16,1,1,0,0,0,data scientist,na,3270
 Data Analyst,CA$80k-CA$107k (Glassdoor Est.),"We’re Ada. We’re an ambitious team based out of Toronto that enables businesses around the world to provide incredible customer service. Our AI-powered platform has automated more than 75 million+ conversations for companies like Shopify, TELUS, Upwork, and Zoom – and we’re just getting started.
 
 You can learn more about the founding of our company here. Just as the field of machine learning continues to advance, so do we. And it is the passion of our people and dedication to our craft that continues to drive our dramatic growth.
@@ -3078,7 +3078,7 @@ About Us
 Ada is a rapidly growing company located at Spadina and Adelaide in Toronto, Canada’s thriving AI ecosystem. We are backed by world-class investors, including Accel, Bessemer Venture Partners and Version One. We provide our employees with competitive compensation, great health benefits, and ownership in our company. Our work is rooted in authenticity, courage, empathy, and simplicity. We use these values to create a culture that encourages groundbreaking results, career progression, and community investment.
 
 Ada is an equal opportunity employer. In fact, diversity is what drives our success – it’s at the core of how we hire, communicate, and work. Like our Platform, we are inclusive to all, and combine our diverse backgrounds, skill sets and thinking to build the best experiences for our clients and their customers.",3.7,"Ada
-3.7",Toronto,-1,51 to 200 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,Ada,ON,4,1,1,0,1,0,Python
+3.7",Toronto,-1,51 to 200 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,Ada,ON,4,1,1,0,1,0,analyst,na,3391
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Location:
 
 40 Hanna Ave, Toronto, Ontario, M6K 0C3
@@ -3112,7 +3112,7 @@ Loblaw Digital recognizes Canada's diversity as a source of national pride and s
 In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us.
 
 Please Note: If you have Employee Self Service (ESS) on Workday, apply to this job via the Workday application.",3.6,"Loblaw Companies
-3.6",Toronto,-1,10000+ Employees,-1,Company - Public,Vehicle Dealers,Retail,$10+ billion (USD),-1,0,0,80.0,107,93.5,Loblaw Companies,ON,-1,0,1,0,1,0,Python
+3.6",Toronto,-1,10000+ Employees,-1,Company - Public,Vehicle Dealers,Retail,$10+ billion (USD),-1,0,0,80.0,107,93.5,Loblaw Companies,ON,-1,0,1,0,1,0,data scientist,na,1824
 "Educator, Data Scientist",CA$80k-CA$107k (Glassdoor Est.),"Educator, Data Science
 
 BrainStation is the global leader in digital skills training and development, offering a 12-week accredited Diploma program in Data Science. BrainStation is currently seeking a full-time Data Science professional (40 hours per week) to lead the delivery of our program through online and in-person teaching. BrainStation Educators are given the unique opportunity to teach, research, and work on real analysis problems, while simultaneously building the future of higher education.
@@ -3152,7 +3152,7 @@ BrainStation is a global leader in digital skills training and development, with
 NOTE: Only those applicants under consideration will be contacted. Please accept our utmost appreciation for your interest.
 
 BrainStation is committed to maintaining a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status will receive consideration for employment. If you have any accessibility requirements or concerns regarding the hiring process or employment with us, please notify us so we can provide suitable accommodation.",4.3,"BrainStation
-4.3",Toronto,-1,51 to 200 Employees,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,BrainStation,ON,8,1,1,0,0,0,Python
+4.3",Toronto,-1,51 to 200 Employees,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,BrainStation,ON,8,1,1,0,0,0,data scientist,na,4106
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Analytics
 Data Scientist - QuantumBlack
 
@@ -3234,7 +3234,7 @@ FOR NON-U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity employer. Fo
 regarding our global EEO policy and diversity initiatives, please visit our
 McKinsey Careers and
 Diversity & Inclusion sites.",4.5,"QuantumBlack
-4.5",Montreal,-1,501 to 1000 Employees,2009,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,QuantumBlack,QC,11,1,1,0,0,1,Python
+4.5",Montreal,-1,501 to 1000 Employees,2009,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,QuantumBlack,QC,11,1,1,0,0,1,data scientist,na,6756
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"They must have strong experience using a variety of data mining and statistical analysis methods, defining models, and implementing both proof of concept and production statistical/analytical pipelines, using/creating algorithms, and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be highly collaborative and comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in small and medium data sets and working with stakeholders to improve business outcomes.
 
 · Provide consultation and oversight in the optimization and improvement of product development, marketing techniques and business strategies by proposing and defining solutions and implementation roadmaps for statistical pipelines, including data collection, model specification, algorithm configuration, system configuration and tuning requirements, fitting, forecasting, prediction, and reporting components that address customer business problems.
@@ -3263,7 +3263,7 @@ Job Type: Full-time
 
 Work remotely:
 Temporarily due to COVID-19",3.5,"HCL America Inc
-3.5",Vancouver,-1,10000+ Employees,1991,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),-1,0,0,80.0,107,93.5,HCL America Inc,BC,29,1,1,0,0,0,Python
+3.5",Vancouver,-1,10000+ Employees,1991,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),-1,0,0,80.0,107,93.5,HCL America Inc,BC,29,1,1,0,0,0,data scientist,na,2137
 Data Scientist II,CA$80k-CA$107k (Glassdoor Est.),"Terms of employment: Full time, permanent
 
 
@@ -3316,7 +3316,7 @@ Benefits: Amazon provides a full range of benefits for our global employees and 
 · Signing Bonuses
 
 Amazon offers competitive packages, growth potential and a challenging and exciting work environment. Amazon and its affiliates are Equal Opportunity Employers. Visit www.Amazon.com/careers for more information.",3.9,"Amazon
-3.9",Vancouver,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,80.0,107,93.5,Amazon,BC,26,1,1,0,0,0,Python
+3.9",Vancouver,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,80.0,107,93.5,Amazon,BC,26,1,1,0,0,0,data scientist,na,3197
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Détails du poste
 Data Scientist
 Date 2020-02-21
@@ -3345,7 +3345,7 @@ Expérience dans l’utilisation de services Web : Redshift, S3, Azure, Spark, D
 Expérience dans l’analyse de données provenant de: Microsoft Application insights, Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
 Expérience dans la visualisation et la présentation de données pour des intervenants, à l’aide de : Periscope, Microsoft Power BI, Business Objects, D3, ggplot, etc.
 Expérience de direction d’initiatives axées sur le service client.
-Excellentes aptitudes pour la communication verbale et écrite en vue de la coordination des équipes.",-1.0,Services Conseils IntelliSoft,Montreal,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,80.0,107,93.5,Services Conseils IntelliSoft,QC,-1,1,1,1,0,1,Python
+Excellentes aptitudes pour la communication verbale et écrite en vue de la coordination des équipes.",-1.0,Services Conseils IntelliSoft,Montreal,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,80.0,107,93.5,Services Conseils IntelliSoft,QC,-1,1,1,1,0,1,data scientist,na,2765
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Reporting to the Lead of Advanced Analytics & Data Science, the Data Scientist will be responsible for overseeing and executing end-to-end analytical products from design to deployment. The Data Scientist will bring problem-solving and lean thinking to deliver products for analysts, managers, and leaders across the organization. The ideal candidate will be excited to work with both financial and health care data to improve patient care, recommend business solutions, and create efficiencies by using advanced analytical techniques and data science.
 
 The successful candidate will be responsible for the following:
@@ -3375,7 +3375,7 @@ Experience with communicating advanced concepts to stakeholders through various 
 Experience with implementing automated data pipelines using deployment software (i.e. AirFlow, SSIS) considered an asset
 Demonstrated ability to learn, internalize and convey new and complex technical subjects and skills.
 Knowledge of relevant health care and financial datasets considered an asset (e.g. Hospital Information Systems, General Ledger, CIHI DAD & NACRS, CCAC CHRIS and RAI, MIS and CHC data sets)",3.5,"Hamilton Health Sciences
-3.5",Hamilton,-1,5001 to 10000 Employees,1991,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,80.0,107,93.5,Hamilton Health Sciences,ON,29,1,1,0,0,0,Python
+3.5",Hamilton,-1,5001 to 10000 Employees,1991,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,80.0,107,93.5,Hamilton Health Sciences,ON,29,1,1,0,0,0,data scientist,na,3453
 ML Engineer/Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"At Nylas, our mission is to empower the world to communicate with context and insight. Our hosted sync platform and APIs enable developers to quickly integrate their apps with email, contacts, and calendar across all providers (including Exchange).
 We are changing the way companies and developers innovate with email and messaging. Customers like Pipedrive, Salesloft, and Lever use our cloud messaging APIs to power their products and accelerate their ability to innovate.
 Nylas has raised over $55M from Spark Capital, 8VC, Data Collective, Fuel Capital, SV Angel and more. Our HQ is in San Francisco with offices in New York, Denver, Toronto, and several of us work remotely. Members have previously worked at Dropbox, Google, Facebook, Microsoft, Oracle, SAP, and VMware.
@@ -3428,7 +3428,7 @@ Flexible work hours
 Nylas is an Equal Opportunity Employer, and diversity of all kinds is important to us.
 Our team is roughly equal by identified gender(including engineering) and focuses on creating an inclusive environment for all people. We welcome people from all different backgrounds and currently employ startup founders, college graduates from all over the country and the world, coding academy graduates and those with no degrees at all.
 We are actively and regularly working with the entire team to shape our culture in a conscious way to our ideal of empowerment, transparency, and kindness.",2.9,"Nylas
-2.9",Toronto,-1,51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,Nylas,ON,7,1,1,1,0,0,Python
+2.9",Toronto,-1,51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,80.0,107,93.5,Nylas,ON,7,1,1,1,0,0,data scientist,na,4506
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Celtx is an ambitious and fast growing software development company that offers an industry leading, one of a kind product. Our cloud-based Celtx Studios brings together creative teams and facilitates full-spectrum collaboration on film, video and game production.
 
 Our Data team is focused on delivering actionable insights to business executives and a growing set of Celtx teams. These insights include predicting user behaviours, reporting SaaS metrics, and identifying opportunities to optimize the users experience with our platform. We are hoping to bolster our teams statistical modelling and analysis capabilities by adding an experienced Data Scientist to our ranks.
@@ -3457,7 +3457,7 @@ Some containerization experience.
 A probabilistic world view is key but a nice Basesian is nice.
 If you have any additional documents you would like to include with your application (peer-reviewed publications, code samples, GitHub link, etc), please attach them or include them in your resume.
 
-We look forward to hearing from you!",-1.0,Celtx Inc,St. John's,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,80.0,107,93.5,Celtx Inc,NL,-1,1,1,0,1,1,Python
+We look forward to hearing from you!",-1.0,Celtx Inc,St. John's,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,80.0,107,93.5,Celtx Inc,NL,-1,1,1,0,1,1,data scientist,na,2793
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Minimum Qualifications
 Master's degree in a quantitative discipline (e.g., Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering, Industrial Engineering) or equivalent practical experience.
 Having 2 years of work experience in a data analysis related field.
@@ -3479,7 +3479,7 @@ Responsibilities
 Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
 Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive knowledge of LogicPlum data structures and metrics, advocating for changes where needed for product development.
 Interact cross-functionally, making business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
-Research and develop analysis, forecasting, and optimization methods to improve the quality of LogicPlum's user-facing products.",-1.0,Logic Plum,Ontario,-1,-1,-1,-1,-1,-1,-1,-1,0,0,80.0,107,93.5,Logic Plum,ON,-1,1,1,0,0,0,Python
+Research and develop analysis, forecasting, and optimization methods to improve the quality of LogicPlum's user-facing products.",-1.0,Logic Plum,Ontario,-1,-1,-1,-1,-1,-1,-1,-1,0,0,80.0,107,93.5,Logic Plum,ON,-1,1,1,0,0,0,data scientist,na,3088
 Data Scientist,CA$80k-CA$107k (Glassdoor Est.),"Minimum Qualifications
 Master's degree in a quantitative discipline (e.g., Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering, Industrial Engineering) or equivalent practical experience.
 Having 2 years of work experience in a data analysis related field.
@@ -3501,7 +3501,7 @@ Responsibilities
 Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
 Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive knowledge of LogicPlum data structures and metrics, advocating for changes where needed for product development.
 Interact cross-functionally, making business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
-Research and develop analysis, forecasting, and optimization methods to improve the quality of LogicPlum's user-facing products.",-1.0,Logic Plum,Ontario,-1,-1,-1,-1,-1,-1,-1,-1,0,0,80.0,107,93.5,Logic Plum,ON,-1,1,1,0,0,0,Python
+Research and develop analysis, forecasting, and optimization methods to improve the quality of LogicPlum's user-facing products.",-1.0,Logic Plum,Ontario,-1,-1,-1,-1,-1,-1,-1,-1,0,0,80.0,107,93.5,Logic Plum,ON,-1,1,1,0,0,0,data scientist,na,3088
 Quantitative Analyst,CA$80k-CA$107k (Glassdoor Est.),"Quantitative Analyst
 Employment Duration
 
@@ -3557,7 +3557,7 @@ Ability to exercise sound judgment and discretion when responding to requests fo
 Please include your cover letter and resume in one attachment.
 
 Job Description:",4.1,"Simon Fraser University
-4.1",Burnaby,-1,1001 to 5000 Employees,1965,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD),-1,0,0,80.0,107,93.5,Simon Fraser University,BC,55,1,1,0,0,1,Python
+4.1",Burnaby,-1,1001 to 5000 Employees,1965,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD),-1,0,0,80.0,107,93.5,Simon Fraser University,BC,55,1,1,0,0,1,analyst,na,3103
 "Data Scientist, Security Analytics",CA$80k-CA$107k (Glassdoor Est.),"Data Scientist, Security Analytics
 
 
@@ -3591,4 +3591,4 @@ Implementation experience with enterprise security solutions such as WAF, IPS, A
 Don’t miss out on this opportunity, apply online today!
 
 Eagle is an equal opportunity employer and will provide accommodations during the recruitment process upon request. We thank all applicants for their interest; however, only candidates under consideration will be contacted. Please note that your application does not signify the beginning of employment with Eagle and that employment with Eagle will only commence when placed on an assignment as a temporary employee of Eagle.",4.0,"Eagle Professional Resources
-4.0",Toronto,-1,51 to 200 Employees,1996,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),-1,0,0,80.0,107,93.5,Eagle Professional Resources,ON,24,1,1,1,0,0,Python
+4.0",Toronto,-1,51 to 200 Employees,1996,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),-1,0,0,80.0,107,93.5,Eagle Professional Resources,ON,24,1,1,1,0,0,data scientist,na,2802
